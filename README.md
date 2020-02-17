@@ -4,7 +4,7 @@
 
 <b>I developed this app in python and it was chosen among best softwares during the <abbr title="BISHOP STUART UNIVERSITY">BSU</abbr> WEEK and was later taken to nationals for <abbr title="NATIONAL COUNCIL FOR HIGHER EDUCATION">NCHE</abbr> exhibition in 2019.</b>
 
-<b>You can download its executable file <a href="#" download="" class="btn btn-primary btn-sm">HERE</a></b>
+<b>You can download its executable file <a target="_blank" href="https://drive.google.com/file/d/1ekEwuQvauURoysHfGbONd6FZIS8Hj1pu/view?usp=sharing" download="https://drive.google.com/file/d/1ekEwuQvauURoysHfGbONd6FZIS8Hj1pu/view?usp=sharing" class="btn btn-primary btn-sm">HERE</a></b>
 
 I really hope you find it helpful as you use it.
 
